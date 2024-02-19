@@ -9,4 +9,5 @@ https://cv.jarocki.me/
 -npx astro preferences disable devToolbar <br/>
 -pnpm i ninja-keys <br/>
 
--pnpm run dev
+-pnpm run dev<br/>
+-pnpm build
